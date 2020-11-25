@@ -1,0 +1,47 @@
+.container {
+    padding-top: 2rem;
+    /* padding-bottom: 7rem; */
+}
+
+.nav-link {
+    margin-top: 15px;
+}
+
+.nav-link.active {
+    color: #343a40 !important;
+    background-color: #f8f9fa !important;
+}
+
+.nav-link.active:hover {
+    color: #343a40 !important;
+}
+
+.navbar {
+    width: 10%;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 56px;
+}
+
+h4 {
+    margin-top: 2rem;
+}
+
+h5 {
+    margin-top: 1rem;
+}
+
+.footer {
+    font-size: 1.4em;
+    text-align: center;
+    margin-top: 2rem;
+    height: 4rem;
+    padding-top: 1rem;
+    width: 100%;
+}
+
+form {
+    padding: 1rem;
+}
